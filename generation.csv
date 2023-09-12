@@ -1,0 +1,33 @@
+﻿ID;Nome;Cognome;Telefono;Colore_occhi;Sesso;Eta;Provenienza;Citta
+GCS31N;Costanza;Sciaccalunga;3128987272;Verdi;F;35;Nord;Bologna
+GMC39N;Marilena;Costa;3980283749;Blu;F;40;Nord;Asti
+GLS37S;Ljusi;Shehaj;3729989875;Marroni;M;30;Sud;Salerno
+GCO32C;Claudia;Osservatrice;3216785367;Verdi;F;45;Centro;Perugia
+TGV34S;Gaetano;Vitale;3478882221;Marroni;M;33;Sud;Palermo
+TGC32N;Giulia;Callegarin;3203673214;Blu;F;30;Nord;Trento
+TDS32N;Diego;Sforza;3205667821;Marroni;M;44;Nord;Aosta
+SGR38C;Gabriele;Rocco;3806848483;Marroni;M;24;Centro;Roma
+SSD32C;Susanna;Di Giammarco;3245758392;Marroni;F;23;Centro;Pescara
+SLA34C;Luca;Albertini;3457812834;Marroni;M;30;Centro;Pisa
+SCM37C;Carlotta;Mannucci;3789632718;Marroni;F;22;Centro;Frosinone
+SFR36C;Francesco;Ragazzo;3679283048;Verdi;M;28;Centro;Latina
+SRB35N;Roberto;Benigni;3574609056;Verdi;M;24;Nord;Milano
+SAC35N;Antonio;Conte;3587066796;Blu;M;23;Nord;Torino
+SEM35S;Elon;Musk;3599524535;Marroni;M;21;Sud;Catania
+SMZ36C;Mark;Zuckerberg;3611982274;Verdi;M;20;Centro;Montesilvano
+SGC36S;Giulio;Cesare;3624440014;Marroni;M;19;Sud;Lecce
+SEM36N;Emma;Marrone;3636897753;Blu;F;19;Nord;Udine
+SGT36N;Giorgia;Todrani;3649355493;Marroni;F;19;Nord;Venezia
+SJB36C;Jeff;Bezos;3661813232;Marroni;M;18;Centro;Ancona
+SDR36C;Daniel;Radcliff;3674270972;Marroni;M;17;Centro;Gaeta
+SRD36C;Robert;De Niro;3686728711;Marroni;F;17;Centro;Macerata
+SDN36C;Donatella;Versace;3699186451;Marroni;M;34;Centro;Viterbo
+SDA37C;Dante;Alighieri;3711644190;Verdi;M;34;Centro;Spoleto
+SFT37N;Francesco;Totti;3724101930;Verdi;M;22;Nord;Cremona
+SET37N;Elisa;Toffoli;3736559669;Blu;F;21;Nord;Pavia
+SRP37S;Rosalba;Pippa;3749017409;Marroni;F;55;Sud;Catanzaro
+SAP37C;Arca;Planet;3761475148;Verdi;F;23;Centro;Avezzano
+SGK37S;Garry;Kasparov;3773932888;Marroni;M;33;Sud;Nuoro
+SAE37N;Albert;Einstein;3786390627;Blu;M;45;Nord;Vicenza
+SAA37N;Aurora;Adkins;3798848366;Marroni;F;19;Nord;Rovigo
+SHG38C;Hermione;Granger;3811306106;Marroni;F;43;Centro;Montepulciano
